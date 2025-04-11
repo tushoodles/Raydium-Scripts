@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2025-04-04T09:31:24.640Z",
+    "poolId": "7unTdMFsL8S6CZvv7UpR754UDpfEs84QnnGF78pCD13T",
+    "inputAmountA": "3",
+    "inputAmountB": "3.03",
+    "txId": "https://explorer.solana.com/tx/24CNCaRzXwWhpN172aYHVfxaEovYKB4Lfsma5z1ntXrt4vKZaFEG8a3FGFoqJbKbAWE2Z2uQQB23U6sf1MNkgg3q?cluster=mainnet"
+  },
+  {
+    "txnId": "4T6KjP19ZNcHUCddcPjjn2c9dmvqNJuZMvH6cPrSuxmvSLhPdcQdNKniKGcXJjnqxGKWz6GHTab7hngQwdpLYFjf",
+    "url": "https://explorer.solana.com/tx/4T6KjP19ZNcHUCddcPjjn2c9dmvqNJuZMvH6cPrSuxmvSLhPdcQdNKniKGcXJjnqxGKWz6GHTab7hngQwdpLYFjf?cluster=devnet",
+    "timeStamp": "2025-04-08T10:31:54.206Z"
+  },
+  {
+    "txnId": "4iJho7TgbJXJQE6MRTDiVm5EeAoVsSuN8K7uHyATa4bUedbK5EKXbZqEqQoXN8HhtkXGMV3GgQtNoVf5aGchJ3f",
+    "url": "https://explorer.solana.com/tx/4iJho7TgbJXJQE6MRTDiVm5EeAoVsSuN8K7uHyATa4bUedbK5EKXbZqEqQoXN8HhtkXGMV3GgQtNoVf5aGchJ3f?cluster=devnet",
+    "timeStamp": "2025-04-10T07:31:43.661Z"
+  }
+]

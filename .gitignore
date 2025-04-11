@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: VS Code settings
+.vscode/
+
+# Build output
+dist/
+build/
+
+# Optional: coverage from testing tools like Jest
+coverage/
+
+# Yarn or pnpm lock files (if not used)
+yarn.lock
+pnpm-lock.yaml
